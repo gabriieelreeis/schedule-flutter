@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "334124899552",
+    "project_id": "schedule-rhitmo-flutter",
+    "storage_bucket": "schedule-rhitmo-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334124899552:android:4bf9e054c8f231436a4485",
+        "android_client_info": {
+          "package_name": "com.example.scheduleflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334124899552-ekcu2gunpasnog8ae3rmvpnjgfbq310r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSgUTec_Q2QuJOC4p1L0QYAsugBn3HYJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334124899552-ekcu2gunpasnog8ae3rmvpnjgfbq310r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334124899552-08gua7ag1687s7jsta9hh0ur5m5j40q5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scheduleflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
